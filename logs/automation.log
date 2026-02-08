@@ -1,0 +1,52 @@
+18:02:00:559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\seleniumwebdriver\Opencart121\Grid.docker.xml
+
+18:02:04:074 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****starting Tc001_AccountRegistrationTescase *****
+18:02:04:360 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****clicked on my account link*****
+18:02:05:003 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****clicked on register link *****
+18:02:05:008 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****Providing customer details*****
+18:02:07:497 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****validating expected message *****
+18:02:07:604 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****finished Tc001_AccountRegistrationTescase *****
+18:02:10:107 [main] INFO  testCases.Tc002_LoginTest - ***Starting the testcase tc002 ***
+18:02:12:518 [main] INFO  testCases.Tc002_LoginTest - ***finished the testcase tc002 ***
+11:02:46:280 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\seleniumwebdriver\Opencart121\Master.xml"
+11:02:46:148 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\seleniumwebdriver\Opencart121\Master.xml"
+11:02:28:745 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\seleniumwebdriver\Opencart121\Master.xml"
+11:02:07:816 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\seleniumwebdriver\Opencart121\Master.xml"
+11:02:08:020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\seleniumwebdriver\Opencart121\Master.xml
+
+11:02:03:665 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\seleniumwebdriver\Opencart121\Master.xml"
+11:02:03:846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\seleniumwebdriver\Opencart121\Master.xml
+
+11:02:38:060 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\seleniumwebdriver\Opencart121\Master.xml"
+11:02:38:247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\seleniumwebdriver\Opencart121\Master.xml
+
+11:02:43:386 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****starting Tc001_AccountRegistrationTescase *****
+11:02:43:687 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****clicked on my account link*****
+11:02:44:280 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****clicked on register link *****
+11:02:44:285 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****Providing customer details*****
+11:02:46:419 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****validating expected message *****
+11:02:46:484 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****finished Tc001_AccountRegistrationTescase *****
+11:02:49:653 [main] INFO  testCases.Tc002_LoginTest - ***Starting the testcase tc002 ***
+11:02:51:302 [main] INFO  testCases.Tc002_LoginTest - ***finished the testcase tc002 ***
+11:02:05:217 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\seleniumwebdriver\Opencart121\Master.xml"
+11:02:07:870 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****starting Tc001_AccountRegistrationTescase *****
+11:02:08:036 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****clicked on my account link*****
+11:02:08:419 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****clicked on register link *****
+11:02:08:426 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****Providing customer details*****
+11:02:10:200 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****validating expected message *****
+11:02:10:253 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****finished Tc001_AccountRegistrationTescase *****
+11:02:12:235 [main] INFO  testCases.Tc002_LoginTest - ***Starting the testcase tc002 ***
+11:02:13:677 [main] INFO  testCases.Tc002_LoginTest - ***finished the testcase tc002 ***
+11:02:17:915 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\seleniumwebdriver\Opencart121\Master.xml"
+11:02:20:988 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****starting Tc001_AccountRegistrationTescase *****
+11:02:21:159 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****clicked on my account link*****
+11:02:21:695 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****clicked on register link *****
+11:02:21:701 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****Providing customer details*****
+11:02:23:977 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****validating expected message *****
+11:02:24:023 [main] INFO  testCases.Tc001_AccountRegistrationTest - *****finished Tc001_AccountRegistrationTescase *****
+11:02:26:176 [main] INFO  testCases.Tc002_LoginTest - ***Starting the testcase tc002 ***
+11:02:27:701 [main] INFO  testCases.Tc002_LoginTest - ***finished the testcase tc002 ***
